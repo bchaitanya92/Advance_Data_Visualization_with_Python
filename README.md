@@ -149,7 +149,7 @@ Replace `script_name.py` with the desired file (e.g., `bar_plot.py`).
 
 <p>
   <b>Developed by:</b> <br>
-  <b>Chaitanya B.</b> <br>
+  <b>B. Chaitanya</b> <br>
   <i><b>Advance Data Visualization & Programming</b></i> <br>
   <br>
   <b>GitHub:</b> <a href="https://github.com/bchaitanya92">bchaitanya92</a> <br>
