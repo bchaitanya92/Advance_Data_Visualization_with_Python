@@ -85,3 +85,14 @@ Feel free to explore, modify, and experiment with the scripts for learning and a
 - `bokeh_plot.py`: Interactive plot using Bokeh.
 - `maps.py`: Map visualization.
 - `time_series.py`: Time series plot.
+
+
+
+
+numpy
+matplotlib
+pandas
+bokeh
+plotly
+plotnine
+seaborn
