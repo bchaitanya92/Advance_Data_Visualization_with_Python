@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Comprehensive Python scripts for Data Visualization & Algorithms</b><br>
-  <i>3rd Sem CSE DVP Coursework | Explore, Learn, Visualize!</i>
+  <i>Explore, Learn, Visualize!</i>
 </p>
 
 ---
@@ -150,7 +150,7 @@ Replace `script_name.py` with the desired file (e.g., `bar_plot.py`).
 <p>
   <b>Developed by:</b> <br>
   <b>Chaitanya B.</b> <br>
-  <i><b>Advance Data Visualization & Programming (DVP)</b></i> <br>
+  <i><b>Advance Data Visualization & Programming</b></i> <br>
   <br>
   <b>GitHub:</b> <a href="https://github.com/bchaitanya92">bchaitanya92</a> <br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/b-chaitanya">BOURISETTI CHAITANYA</a>
